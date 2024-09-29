@@ -1,6 +1,6 @@
 ## 👋 Hi! I'm Ariel
 
-I am a founder of [Zxbase](https://zxbase.com), working on the future of privacy.
+I'm building [products](https://zxbase.com) that empower people.
 
 ## 👥 Social Media
 - [Linkedin](https://www.linkedin.com/in/tubaltsev/)
