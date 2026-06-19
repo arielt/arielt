@@ -12,9 +12,15 @@
 |   | Name | Author | URL | BISAC | LCC | Labels |
 | - | ---- | ------ | --- | ----- | --- | ------ |
 | 1 | Dune | Frank Herbert | | | | Fiction | 
-| 2 | Sapiens: A Brief History of Humankind | Yuval Noah Harari | | | D | Fiction |
-| 3 | Man's Search for Meaning | Viktor E. Frankl | | | | Fiction |
-| 4 | Outliers | Malcolm Gladwell | | | | Fiction |
+| 2 | Slaughterhouse-Five | Kurt Vonnegut | | | | Fiction |
+| 3 | The Lord of the Rings | J. R. R. Tolkien | | | | Fiction |
+| 4 | Starship Troopers | Robert A. Heinlein | | | | Fiction |
+
+|   | Name | Author | URL | BISAC | LCC | Labels |
+| - | ---- | ------ | --- | ----- | --- | ------ |
+| 1 | Zero to One | Peter Thiel | | | | Nonfiction Business | 
+| 2 | Harvard Business Review Manager's Handbook | Harvard Business Review | | | | Nonfiction Business |
+| 3 | Smart and Gets Things Done | Joel Spolsky | | | | Nonfiction Business |
 
 
 ## Classifications
