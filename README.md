@@ -83,14 +83,41 @@ I'm building [products](https://zxbase.com) that empower people.
 
 ## 💻 Programming Languages
 
-|||
-| --- | --- |
-| 1   | C   |
-| 2   | C++ |
-| 3   | Dart|
-| 4   | Ruby |
-| 5   | Javascript |
-| 6   | Python |
-| 7   | SQL |
-| 8   | Go |
-| 9   | Java |
+<table>
+  <tr>
+    <td>1</td>
+    <td>C</td>
+  </tr>
+  <tr>
+    <td>2</td>
+    <td>C++</td>
+  </tr>
+  <tr>
+    <td>3</td>
+    <td>Dart</td>
+  </tr>
+  <tr>
+    <td>4</td>
+    <td>Ruby</td>
+  </tr>
+  <tr>
+    <td>5</td>
+    <td>Javascript</td>
+  </tr>
+  <tr>
+    <td>6</td>
+    <td>Python</td>
+  </tr>
+  <tr>
+    <td>7</td>
+    <td>SQL</td>
+  </tr>
+  <tr>
+    <td>8</td>
+    <td>Go</td>
+  </tr>
+  <tr>
+    <td>9</td>
+    <td>Java</td>
+  </tr>
+</table>
