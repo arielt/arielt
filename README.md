@@ -1,6 +1,6 @@
 ## 👋 Hi! I'm Ariel
 
-I'm building [products](https://zxbase.com) that empower people.
+I'm building [tools](https://zxbase.com) that make people's lives better.
 
 ## 👥 Social Media
 - [Linkedin](https://www.linkedin.com/in/tubaltsev/)
