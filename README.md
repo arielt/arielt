@@ -1,6 +1,6 @@
 ## 👋 Hi! I'm Ariel
 
-I'm building [tools](https://zxbase.com) that make people's lives better.
+I'm building [products](https://zxbase.com) that make people's lives better.
 
 ## 👥 Social Media
 - [Linkedin](https://www.linkedin.com/in/tubaltsev/)
@@ -81,7 +81,7 @@ I'm building [tools](https://zxbase.com) that make people's lives better.
   </tr>
 </table>
 
-## 💻 Programming Languages
+## </> Programming Languages
 
 <table>
   <tr>
@@ -119,5 +119,18 @@ I'm building [tools](https://zxbase.com) that make people's lives better.
   <tr>
     <td>9</td>
     <td>Java</td>
+  </tr>
+</table>
+
+## 💻 Workspace
+
+<table>
+  <tr>
+    <td>Keyboard</td>
+    <td>Logitech MX Keys</td>
+  </tr>
+  <tr>
+    <td>Mouse</td>
+    <td>Logitech MX Master 3</td>
   </tr>
 </table>
