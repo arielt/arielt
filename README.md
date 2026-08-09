@@ -53,6 +53,11 @@ I'm building [products](https://zxbase.com) that make people's lives better.
     <td>Outliers</td>
     <td>Malcolm Gladwell</td>
   </tr>
+  <tr>
+    <td>5</td>
+    <td>Never Split the Difference</td>
+    <td>Chris Voss</td>
+  </tr>
 </table>
 
 <table>
