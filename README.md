@@ -13,6 +13,10 @@ I'm building [products](https://zxbase.com) that make people's lives better.
     <th colspan="2" style="text-align: center;">Business</th>
   </tr>
   <tr>
+    <td>Rework</td>
+    <td>Jason Fried and David Heinemeier Hansson</td>
+  </tr>
+  <tr>
     <td>Zero to One</td>
     <td>Peter Thiel</td>
   </tr>
