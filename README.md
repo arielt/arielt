@@ -76,6 +76,10 @@ I'm building [products](https://zxbase.com) that make people's lives better.
     <td>Starship Troopers</td>
     <td>Robert A. Heinlein</td>
   </tr>
+  <tr>
+    <td>Hyperion</td>
+    <td>Dan Simmons</td>
+  </tr>
 </table>
 
 ## </> Programming Languages
